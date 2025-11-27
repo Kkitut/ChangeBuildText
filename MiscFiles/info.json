@@ -1,0 +1,8 @@
+{
+  "Id": "ChangeBuildText",
+  "DisplayName": "ChangeBuildText",
+  "Author": "Kkitut",
+  "Version": "1.4.0",
+  "AssemblyName": "ChangeBuildText.dll",
+  "EntryMethod": "ChangeBuildText.Main.On"
+}
